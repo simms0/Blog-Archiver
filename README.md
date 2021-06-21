@@ -5,20 +5,24 @@ Now this is questionably legal both in copying other people's material and in co
 What I want is web application which I can point at a tumblr (other blogging services to follow) and will capture its contents.
 
 Features: 
+
 Options on what to capture
-	-posts
-	-reposts
-	-comments
-	-media handling
-filtering by:
-  -Tags
-  -Text
-  -regex
-  -content
+  - posts
+  - reposts
+  - comments
+  - media handling
+
+Filtering by:
+  - Tags
+  - Text
+  - regex
+  - content
+ 
 Putting tumblrs that people have with posts tiled across the screen back into a readable format
 
 Future Features:
-Veiw/preview of captured content
-Pointing at non-tumblr blogging sites
-Handling embedded media
-collating blogs together
+  - Veiw/preview of captured content
+  - Pointing at non-tumblr blogging sites
+  - Handling embedded media
+  - collating blogs together
+  - Poining at non-blog archives
