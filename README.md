@@ -26,3 +26,4 @@ Future Features:
   - Handling embedded media
   - collating blogs together
   - Poining at non-blog archives
+  - Change output type (Local website/text document/(maybe something else))
